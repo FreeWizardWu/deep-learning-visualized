@@ -1,0 +1,40 @@
+# 内容许可证 · CC BY-NC-SA 4.0
+
+本仓库中的**文字、图解与截图**采用
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+（CC BY-NC-SA 4.0）许可。
+
+「本内容」包括：
+
+- 本仓库 README 中的全部文字
+- `assets/` 目录下的截图与示意图
+- 在线站点 <https://deeplearning.wizardwu.top> 上的**教学文案、解说、类比、表格设计、手绘 SVG 图解**
+
+## 你可以
+
+| | |
+|---|---|
+| ✅ **自由学习** | 自己看、打印、做笔记 |
+| ✅ **自由分享** | 转载、发到自己的博客、做成课堂讲义（**署名 + 非商业**） |
+| ✅ **自由改编** | 改写成别的语言、调整顺序、增删内容（**署名 + 非商业**） |
+
+## 你必须
+
+| | |
+|---|---|
+| 📝 **署名** | 注明来源「图解深度学习」并附上 <https://deeplearning.wizardwu.top> 与本许可证的链接 |
+| 🚫 **非商业** | 不得用于付费课程、企业付费培训、广告变现等商业用途 |
+| 🔄 **相同方式共享** | 如果你改编后发布，你的版本也必须使用 CC BY-NC-SA 4.0 |
+
+## 注意
+
+- **本站源码未公开。** 这是一个作品展示与更新日志仓库，不包含教学站的源代码。
+- 本仓库与在线站点的教学内容参考了公开论文、教材与博客（来源见各章节脚注），
+  引用内容的知识产权归原作者。
+- 「图解深度学习」这个名称不构成商标主张。
+
+---
+
+*This work is licensed under CC BY-NC-SA 4.0. You are free to share and adapt
+for non-commercial purposes with attribution, as long as you distribute your
+contributions under the same license.*
