@@ -6,7 +6,7 @@
 
 从「一个神经元能算什么」到「大模型到底在想什么」
 
-**9 个阶段 · 78 章 · 全部完成 · 完全免费**
+**9 个阶段 · 80 章 · 全部完成 · 完全免费**
 
 ## 👉 [**deeplearning.wizardwu.top**](https://deeplearning.wizardwu.top) 👈
 
@@ -60,7 +60,7 @@
 
 ### 每一章都是同一个骨架
 
-78 章用的是同一套结构，读到第 5 章你就知道该怎么读了：
+80 章用的是同一套结构，读到第 5 章你就知道该怎么读了：
 
 | | 这一节回答什么 |
 |---|---|
@@ -77,15 +77,15 @@
 
 ### 章与章之间是连起来的
 
-78 章不是 78 个孤岛。每一章末尾有一个**自动生成**的「这一章和什么有关」区块：前置知识、共享概念最多的章、以及按概念串起来的邻居。
+80 章不是 80 个孤岛。每一章末尾有一个**自动生成**的「这一章和什么有关」区块：前置知识、共享概念最多的章、以及按概念串起来的邻居。
 
-数据层只有一件事：每个条目上挂 4 个概念标签（全站 44 个受控标签）。
+数据层只有一件事：每个条目上挂 4 个概念标签（全站 45 个受控标签）。
 
 ```js
 { slug: 'cnn', ..., tags: ['卷积','视觉','表示','线性代数'], pre: ['mlp'] }
 ```
 
-全图规模：**44 个概念标签 · 257 条边 · 27 个横跨 3 个以上阶段的桥 · 零孤立章**。
+全图规模：**45 个概念标签 · 222 条边 · 27 个横跨 3 个以上阶段的桥 · 零孤立章**。
 它找出来的关联，顺着读是发现不了的，例如：
 
 ```
@@ -99,7 +99,7 @@ LoRA（大模型）     →  一致性模型  「压缩」
 
 ### 还有六条暗线
 
-除了表面上的 78 章，全站还埋了**六条暗线**，每一章都必须回答：
+除了表面上的 80 章，全站还埋了**六条暗线**，每一章都必须回答：
 
 **A 信息怎么流动**（数据形状是什么）· **B 什么被牺牲了**（代价是什么）· **C 参数账本**（真实参数量/算力/显存）· **D 跑在什么上**（算力受限还是带宽受限）· **E 它假设了什么**（归纳偏置）· **F 违背了哪个直觉**
 
@@ -149,7 +149,7 @@ LoRA（大模型）     →  一致性模型  「压缩」
 | **分布式训练** | ZeRO 各阶段显存 112 → 38.5 → 26.25 → 14.0 GB |
 | **持续学习** | 真的训练一个网络演示灾难性遗忘，旧任务准确率断崖下跌 |
 
-规模上：**706 个 `<canvas>`**、**120 处内联 SVG 图解**、**2781 次交互组件调用**——每一个背后都是真的在算。
+规模上：**708 个 `<canvas>`**、**115 处内联 SVG 图解**、**2815 次交互组件调用**——每一个背后都是真的在算。
 
 **零依赖 · 断网可用**：纯静态 HTML + CSS + 原生 JS。没有框架、没有构建步骤、没有 CDN。
 下载下来双击 `index.html` 就能看，飞机上也能看。
@@ -172,7 +172,7 @@ LoRA（大模型）     →  一致性模型  「压缩」
 | | **合计** | **77** | 从最基础的一个神经元，一路走到正在改写规则的前沿方法 |
 
 <details>
-<summary><b>展开全部 78 章（点标题直接进在线版）</b></summary>
+<summary><b>展开全部 80 章（点标题直接进在线版）</b></summary>
 
 ### 开篇 · 开始之前 —— 先给你一张地图
 
@@ -260,14 +260,16 @@ LoRA（大模型）     →  一致性模型  「压缩」
 
 | # | 章 | 一句话 |
 |---|---|---|
-| 6.1 | 🔌 **[硬件与算力账本](https://deeplearning.wizardwu.top/pages/hardware.html)** | 算法写出来不等于跑得动 |
-| 6.2 | 🗄️ **[推理与 KV Cache](https://deeplearning.wizardwu.top/pages/kvcache.html)** | 生成一个词要算什么 |
-| 6.3 | 📉 **[高效注意力](https://deeplearning.wizardwu.top/pages/attn-efficient.html)** | 把 O(n²) 压下去 |
-| 6.4 | 🎯 **[投机解码与加速](https://deeplearning.wizardwu.top/pages/spec.html)** | 小模型猜、大模型验 |
-| 6.5 | 🕸️ **[分布式训练](https://deeplearning.wizardwu.top/pages/parallel.html)** | 一张卡放不下怎么办 |
-| 6.6 | 🧮 **[混合精度与显存账本](https://deeplearning.wizardwu.top/pages/memory.html)** | 训练一次要多少钱 |
-| 6.7 | 🚦 **[服务化与吞吐](https://deeplearning.wizardwu.top/pages/serving.html)** | 怎么同时服务一千人 |
-| 6.8 | 📊 **[评测、基准与幻觉](https://deeplearning.wizardwu.top/pages/eval.html)** | 怎么知道它到底行不行 |
+| 6.1 | 🧱 **[从芯片到框架](https://deeplearning.wizardwu.top/pages/stack.html)** | GPU、CUDA、PyTorch 谁是谁 |
+| 6.2 | 🔌 **[硬件与算力账本](https://deeplearning.wizardwu.top/pages/hardware.html)** | 算法写出来不等于跑得动 |
+| 6.3 | 🏭 **[集群：一千张卡怎么连](https://deeplearning.wizardwu.top/pages/cluster.html)** | 机内 900GB/s，机间只有 50 |
+| 6.4 | 🗄️ **[推理与 KV Cache](https://deeplearning.wizardwu.top/pages/kvcache.html)** | 生成一个词要算什么 |
+| 6.5 | 📉 **[高效注意力](https://deeplearning.wizardwu.top/pages/attn-efficient.html)** | 把 O(n²) 压下去 |
+| 6.6 | 🎯 **[投机解码与加速](https://deeplearning.wizardwu.top/pages/spec.html)** | 小模型猜、大模型验 |
+| 6.7 | 🕸️ **[分布式训练](https://deeplearning.wizardwu.top/pages/parallel.html)** | 一张卡放不下怎么办 |
+| 6.8 | 🧮 **[混合精度与显存账本](https://deeplearning.wizardwu.top/pages/memory.html)** | 训练一次要多少钱 |
+| 6.9 | 🚦 **[服务化与吞吐](https://deeplearning.wizardwu.top/pages/serving.html)** | 怎么同时服务一千人 |
+| 6.10 | 📊 **[评测、基准与幻觉](https://deeplearning.wizardwu.top/pages/eval.html)** | 怎么知道它到底行不行 |
 
 ### 阶段 7 · 用起来 —— 应用与智能体
 
