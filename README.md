@@ -238,7 +238,7 @@ LoRA（大模型）     →  一致性模型  「压缩」
 | 4.7 | ⚡ **[一致性模型与蒸馏](https://deeplearning.wizardwu.top/pages/consistency.html)** | 一步出图怎么做到 |
 | 4.8 | 🔢 **[视觉 tokenizer](https://deeplearning.wizardwu.top/pages/vq.html)** | 图片也能"下一个" |
 | 4.9 | 🗺️ **[生成模型家族图谱](https://deeplearning.wizardwu.top/pages/genmap.html)** | 五条路线怎么选 |
-| 4.10 | 🎛️ **[一套机制，四种模态](https://deeplearning.wizardwu.top/pages/modality.html)** | 换个模态只坏一两个零件 |
+| 4.10 | 🎛️ **[一套机制，四种模态](https://deeplearning.wizardwu.top/pages/modality.html)** | 换个模态只换四个零件 |
 | 4.11 | 👁️ **[多模态模型](https://deeplearning.wizardwu.top/pages/multimodal.html)** | 让模型长眼睛 |
 
 ### 阶段 5 · 大模型怎么炼成 —— 规模、对齐与推理
