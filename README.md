@@ -6,7 +6,7 @@
 
 从「一个神经元能算什么」到「大模型到底在想什么」
 
-**9 个阶段 · 79 章 · 全部完成 · 完全免费**
+**9 个阶段 · 80 章 · 全部完成 · 完全免费**
 
 ## 👉 [**deeplearning.wizardwu.top**](https://deeplearning.wizardwu.top) 👈
 
@@ -60,7 +60,7 @@
 
 ### 每一章都是同一个骨架
 
-79 章用的是同一套结构，读到第 5 章你就知道该怎么读了：
+80 章用的是同一套结构，读到第 5 章你就知道该怎么读了：
 
 | | 这一节回答什么 |
 |---|---|
@@ -77,7 +77,7 @@
 
 ### 章与章之间是连起来的
 
-79 章不是 79 个孤岛。每一章末尾有一个**自动生成**的「这一章和什么有关」区块：前置知识、共享概念最多的章、以及按概念串起来的邻居。
+80 章不是 80 个孤岛。每一章末尾有一个**自动生成**的「这一章和什么有关」区块：前置知识、共享概念最多的章、以及按概念串起来的邻居。
 
 数据层只有一件事：每个条目上挂 4 个概念标签（全站 45 个受控标签）。
 
@@ -85,7 +85,7 @@
 { slug: 'cnn', ..., tags: ['卷积','视觉','表示','线性代数'], pre: ['mlp'] }
 ```
 
-全图规模：**45 个概念标签 · 222 条边 · 27 个横跨 3 个以上阶段的桥 · 零孤立章**。
+全图规模：**48 个概念标签 · 262 条边 · 26 个横跨 3 个以上阶段的桥 · 零孤立章**。
 它找出来的关联，顺着读是发现不了的，例如：
 
 ```
@@ -99,7 +99,7 @@ LoRA（大模型）     →  一致性模型  「压缩」
 
 ### 还有六条暗线
 
-除了表面上的 79 章，全站还埋了**六条暗线**，每一章都必须回答：
+除了表面上的 80 章，全站还埋了**六条暗线**，每一章都必须回答：
 
 **A 信息怎么流动**（数据形状是什么）· **B 什么被牺牲了**（代价是什么）· **C 参数账本**（真实参数量/算力/显存）· **D 跑在什么上**（算力受限还是带宽受限）· **E 它假设了什么**（归纳偏置）· **F 违背了哪个直觉**
 
@@ -161,7 +161,7 @@ LoRA（大模型）     →  一致性模型  「压缩」
 | 部分 | 主题 | 章数 | 这一部分在讲什么 |
 |---|---|---|---|
 | 开篇 | **开始之前** | 2 | 先给你两张地图 |
-| 1 | **最小学习机器** | 11 | 一个神经元怎么学会 |
+| 1 | **最小学习机器** | 12 | 一个神经元怎么学会 |
 | 2 | **看懂图像** | 8 | 从像素到物体 |
 | 3 | **处理序列** | 10 | 语言、语音、时间 |
 | 4 | **学会创造** | 11 | 让它学会创作 |
@@ -169,10 +169,10 @@ LoRA（大模型）     →  一致性模型  「压缩」
 | 6 | **让模型跑起来** | 8 | 训练和推理的工程账 |
 | 7 | **用起来** | 7 | 应用与智能体 |
 | 8 | **前沿范式** | 10 | 正在改写规则的东西 |
-| | **合计** | **79** | 从最基础的一个神经元，一路走到正在改写规则的前沿方法 |
+| | **合计** | **80** | 从最基础的一个神经元，一路走到正在改写规则的前沿方法 |
 
 <details>
-<summary><b>展开全部 79 章（点标题直接进在线版）</b></summary>
+<summary><b>展开全部 80 章（点标题直接进在线版）</b></summary>
 
 ### 开篇 · 开始之前 —— 先给你两张地图
 
@@ -189,13 +189,14 @@ LoRA（大模型）     →  一致性模型  「压缩」
 | 1.2 | 🧠 **[MLP 多层感知机](https://deeplearning.wizardwu.top/pages/mlp.html)** | 把直线折成任意形状 |
 | 1.3 | ⚡ **[激活函数](https://deeplearning.wizardwu.top/pages/activation.html)** | 没有它深度就是幻觉 |
 | 1.4 | 🎯 **[损失函数](https://deeplearning.wizardwu.top/pages/loss.html)** | 你给网络下的定义 |
-| 1.5 | ↩️ **[梯度下降与反向传播](https://deeplearning.wizardwu.top/pages/backprop.html)** | 网络知道自己错在哪 |
-| 1.6 | 🏎️ **[优化器谱系](https://deeplearning.wizardwu.top/pages/optimizer.html)** | 从瞎走到带惯性带刹车 · 为什么「卡住」多是假象 |
-| 1.7 | 🛡️ **[过拟合与正则化](https://deeplearning.wizardwu.top/pages/regularization.html)** | 给模型系一根橡皮筋 |
-| 1.8 | ⚖️ **[归一化层](https://deeplearning.wizardwu.top/pages/norm.html)** | 让每层站在同一起跑线 |
-| 1.9 | 🎚️ **[初始化与训练稳定性](https://deeplearning.wizardwu.top/pages/init.html)** | 为什么你的网络一开就炸 |
-| 1.10 | 🩺 **[症状与病因](https://deeplearning.wizardwu.top/pages/debug.html)** | 损失不降时该看什么 |
-| 1.11 | 🎛️ **[超参怎么选](https://deeplearning.wizardwu.top/pages/tuning.html)** | 从默认起点走到最优 |
+| 1.5 | 🧱 **[运筹与优化](https://deeplearning.wizardwu.top/pages/optimization.html)** | 答案为什么总在墙角 |
+| 1.6 | ↩️ **[梯度下降与反向传播](https://deeplearning.wizardwu.top/pages/backprop.html)** | 网络知道自己错在哪 |
+| 1.7 | 🏎️ **[优化器谱系](https://deeplearning.wizardwu.top/pages/optimizer.html)** | 从瞎走到带惯性带刹车 · 为什么「卡住」多是假象 |
+| 1.8 | 🛡️ **[过拟合与正则化](https://deeplearning.wizardwu.top/pages/regularization.html)** | 给模型系一根橡皮筋 |
+| 1.9 | ⚖️ **[归一化层](https://deeplearning.wizardwu.top/pages/norm.html)** | 让每层站在同一起跑线 |
+| 1.10 | 🎚️ **[初始化与训练稳定性](https://deeplearning.wizardwu.top/pages/init.html)** | 为什么你的网络一开就炸 |
+| 1.11 | 🩺 **[症状与病因](https://deeplearning.wizardwu.top/pages/debug.html)** | 损失不降时该看什么 |
+| 1.12 | 🎛️ **[超参怎么选](https://deeplearning.wizardwu.top/pages/tuning.html)** | 从默认起点走到最优 |
 
 ### 阶段 2 · 看懂图像 —— 从像素到物体
 
