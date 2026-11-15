@@ -15,6 +15,8 @@
 [![断网可用](https://img.shields.io/badge/离线-可用-success)](https://deeplearning.wizardwu.top)
 [![许可](https://img.shields.io/badge/内容-CC%20BY--NC--SA%204.0-lightgrey)](./LICENSE-CONTENT)
 
+**同一个站点还有第二本书：** 📚 [《图解运筹与优化》](https://deeplearning.wizardwu.top/or/)（8 个阶段 · 18 章）——从一张排产单讲到整数、弯的世界，再讲到它和深度学习的关系。
+
 </div>
 
 <div align="center">
