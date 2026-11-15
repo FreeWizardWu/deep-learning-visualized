@@ -8,14 +8,14 @@
 
 **9 个阶段 · 80 章 · 全部完成 · 完全免费**
 
-## 👉 [**deeplearning.wizardwu.top**](https://deeplearning.wizardwu.top) 👈
+## 👉 [**learn.wizardwu.top**](https://learn.wizardwu.top) 👈
 
-[![在线读](https://img.shields.io/badge/🌐_在线读-打开就能看-2ea44f)](https://deeplearning.wizardwu.top)
-[![零依赖](https://img.shields.io/badge/依赖-零-brightgreen)](https://deeplearning.wizardwu.top)
-[![断网可用](https://img.shields.io/badge/离线-可用-success)](https://deeplearning.wizardwu.top)
+[![在线读](https://img.shields.io/badge/🌐_在线读-打开就能看-2ea44f)](https://learn.wizardwu.top)
+[![零依赖](https://img.shields.io/badge/依赖-零-brightgreen)](https://learn.wizardwu.top)
+[![断网可用](https://img.shields.io/badge/离线-可用-success)](https://learn.wizardwu.top)
 [![许可](https://img.shields.io/badge/内容-CC%20BY--NC--SA%204.0-lightgrey)](./LICENSE-CONTENT)
 
-**同一个站点还有第二本书：** 📚 [《图解运筹与优化》](https://deeplearning.wizardwu.top/or/)（8 个阶段 · 18 章）——从一张排产单讲到整数、弯的世界，再讲到它和深度学习的关系。
+**同一个站点还有第二本书：** 📚 [《图解运筹与优化》](https://learn.wizardwu.top/or/)（8 个阶段 · 18 章）——从一张排产单讲到整数、弯的世界，再讲到它和深度学习的关系。
 
 </div>
 
@@ -180,126 +180,126 @@ LoRA（大模型）     →  一致性模型  「压缩」
 
 | # | 章 | 一句话 |
 |---|---|---|
-| 0.1 | 🧭 **[第一性原理](https://deeplearning.wizardwu.top/pages/essence.html)** | 七个想法，看懂后面所有章 |
-| 0.2 | 📐 **[数学地图](https://deeplearning.wizardwu.top/pages/math.html)** | 六块数学，读到哪章碰到哪块 |
+| 0.1 | 🧭 **[第一性原理](https://learn.wizardwu.top/pages/essence.html)** | 七个想法，看懂后面所有章 |
+| 0.2 | 📐 **[数学地图](https://learn.wizardwu.top/pages/math.html)** | 六块数学，读到哪章碰到哪块 |
 
 ### 阶段 1 · 最小学习机器 —— 一个神经元怎么学会
 
 | # | 章 | 一句话 |
 |---|---|---|
-| 1.1 | 🔘 **[感知机](https://deeplearning.wizardwu.top/pages/perceptron.html)** | 一刀切开整个世界 |
-| 1.2 | 🧠 **[MLP 多层感知机](https://deeplearning.wizardwu.top/pages/mlp.html)** | 把直线折成任意形状 |
-| 1.3 | ⚡ **[激活函数](https://deeplearning.wizardwu.top/pages/activation.html)** | 没有它深度就是幻觉 |
-| 1.4 | 🎯 **[损失函数](https://deeplearning.wizardwu.top/pages/loss.html)** | 你给网络下的定义 |
-| 1.5 | 🧱 **[运筹与优化](https://deeplearning.wizardwu.top/pages/optimization.html)** | 答案为什么总在墙角 |
-| 1.6 | ↩️ **[梯度下降与反向传播](https://deeplearning.wizardwu.top/pages/backprop.html)** | 网络知道自己错在哪 |
-| 1.7 | 🏎️ **[优化器谱系](https://deeplearning.wizardwu.top/pages/optimizer.html)** | 从瞎走到带惯性带刹车 · 为什么「卡住」多是假象 |
-| 1.8 | 🛡️ **[过拟合与正则化](https://deeplearning.wizardwu.top/pages/regularization.html)** | 给模型系一根橡皮筋 |
-| 1.9 | ⚖️ **[归一化层](https://deeplearning.wizardwu.top/pages/norm.html)** | 让每层站在同一起跑线 |
-| 1.10 | 🎚️ **[初始化与训练稳定性](https://deeplearning.wizardwu.top/pages/init.html)** | 为什么你的网络一开就炸 |
-| 1.11 | 🩺 **[症状与病因](https://deeplearning.wizardwu.top/pages/debug.html)** | 损失不降时该看什么 |
-| 1.12 | 🎛️ **[超参怎么选](https://deeplearning.wizardwu.top/pages/tuning.html)** | 从默认起点走到最优 |
+| 1.1 | 🔘 **[感知机](https://learn.wizardwu.top/pages/perceptron.html)** | 一刀切开整个世界 |
+| 1.2 | 🧠 **[MLP 多层感知机](https://learn.wizardwu.top/pages/mlp.html)** | 把直线折成任意形状 |
+| 1.3 | ⚡ **[激活函数](https://learn.wizardwu.top/pages/activation.html)** | 没有它深度就是幻觉 |
+| 1.4 | 🎯 **[损失函数](https://learn.wizardwu.top/pages/loss.html)** | 你给网络下的定义 |
+| 1.5 | 🧱 **[运筹与优化](https://learn.wizardwu.top/pages/optimization.html)** | 答案为什么总在墙角 |
+| 1.6 | ↩️ **[梯度下降与反向传播](https://learn.wizardwu.top/pages/backprop.html)** | 网络知道自己错在哪 |
+| 1.7 | 🏎️ **[优化器谱系](https://learn.wizardwu.top/pages/optimizer.html)** | 从瞎走到带惯性带刹车 · 为什么「卡住」多是假象 |
+| 1.8 | 🛡️ **[过拟合与正则化](https://learn.wizardwu.top/pages/regularization.html)** | 给模型系一根橡皮筋 |
+| 1.9 | ⚖️ **[归一化层](https://learn.wizardwu.top/pages/norm.html)** | 让每层站在同一起跑线 |
+| 1.10 | 🎚️ **[初始化与训练稳定性](https://learn.wizardwu.top/pages/init.html)** | 为什么你的网络一开就炸 |
+| 1.11 | 🩺 **[症状与病因](https://learn.wizardwu.top/pages/debug.html)** | 损失不降时该看什么 |
+| 1.12 | 🎛️ **[超参怎么选](https://learn.wizardwu.top/pages/tuning.html)** | 从默认起点走到最优 |
 
 ### 阶段 2 · 看懂图像 —— 从像素到物体
 
 | # | 章 | 一句话 |
 |---|---|---|
-| 2.1 | 🔍 **[CNN 卷积神经网络](https://deeplearning.wizardwu.top/pages/cnn.html)** | 小印章盖满整张图 |
-| 2.2 | 🔭 **[感受野与下采样](https://deeplearning.wizardwu.top/pages/receptive.html)** | 为什么越深看得越广 |
-| 2.3 | 🏛️ **[经典 CNN 家族](https://deeplearning.wizardwu.top/pages/cnn-family.html)** | 十年架构进化史 |
-| 2.4 | 🔄 **[数据增强与迁移学习](https://deeplearning.wizardwu.top/pages/augment.html)** | 没数据也能练 |
-| 2.5 | 📦 **[目标检测](https://deeplearning.wizardwu.top/pages/detection.html)** | 不只是"是什么" |
-| 2.6 | 🎨 **[语义分割](https://deeplearning.wizardwu.top/pages/segmentation.html)** | 给每个像素上色 |
-| 2.7 | 🖼️ **[ViT 视觉 Transformer](https://deeplearning.wizardwu.top/pages/vit.html)** | 把图片切成小方块 |
-| 2.8 | 🔗 **[自监督与对比学习](https://deeplearning.wizardwu.top/pages/ssl.html)** | 不用标签也能学 |
+| 2.1 | 🔍 **[CNN 卷积神经网络](https://learn.wizardwu.top/pages/cnn.html)** | 小印章盖满整张图 |
+| 2.2 | 🔭 **[感受野与下采样](https://learn.wizardwu.top/pages/receptive.html)** | 为什么越深看得越广 |
+| 2.3 | 🏛️ **[经典 CNN 家族](https://learn.wizardwu.top/pages/cnn-family.html)** | 十年架构进化史 |
+| 2.4 | 🔄 **[数据增强与迁移学习](https://learn.wizardwu.top/pages/augment.html)** | 没数据也能练 |
+| 2.5 | 📦 **[目标检测](https://learn.wizardwu.top/pages/detection.html)** | 不只是"是什么" |
+| 2.6 | 🎨 **[语义分割](https://learn.wizardwu.top/pages/segmentation.html)** | 给每个像素上色 |
+| 2.7 | 🖼️ **[ViT 视觉 Transformer](https://learn.wizardwu.top/pages/vit.html)** | 把图片切成小方块 |
+| 2.8 | 🔗 **[自监督与对比学习](https://learn.wizardwu.top/pages/ssl.html)** | 不用标签也能学 |
 
 ### 阶段 3 · 处理序列 —— 语言、语音、时间
 
 | # | 章 | 一句话 |
 |---|---|---|
-| 3.1 | ✂️ **[分词与子词](https://deeplearning.wizardwu.top/pages/tokenization.html)** | 模型不认字，只认编号 |
-| 3.2 | 📚 **[词向量](https://deeplearning.wizardwu.top/pages/word2vec.html)** | 把词变成可以算的箭头 |
-| 3.3 | 🔁 **[RNN 循环神经网络](https://deeplearning.wizardwu.top/pages/rnn.html)** | 带记忆的网络 |
-| 3.4 | 🚪 **[LSTM / GRU](https://deeplearning.wizardwu.top/pages/lstm.html)** | 用门控制记忆 |
-| 3.5 | 🔀 **[Seq2Seq 与注意力](https://deeplearning.wizardwu.top/pages/seq2seq.html)** | 一句话压成一个向量，够吗 |
-| 3.6 | 🎯 **[注意力机制](https://deeplearning.wizardwu.top/pages/attention.html)** | 第一次"该看哪"的算法 |
-| 3.7 | ⚡ **[Transformer 自注意力](https://deeplearning.wizardwu.top/pages/transformer.html)** | 每个词都看所有词 |
-| 3.8 | 📍 **[位置编码与长上下文](https://deeplearning.wizardwu.top/pages/rope.html)** | 词序信息从哪来 |
-| 3.9 | 📖 **[预训练语言模型](https://deeplearning.wizardwu.top/pages/plm.html)** | 读完整个互联网之后 |
-| 3.10 | 🎰 **[文本生成与采样](https://deeplearning.wizardwu.top/pages/sampling.html)** | 模型是怎么"说"出来的 |
+| 3.1 | ✂️ **[分词与子词](https://learn.wizardwu.top/pages/tokenization.html)** | 模型不认字，只认编号 |
+| 3.2 | 📚 **[词向量](https://learn.wizardwu.top/pages/word2vec.html)** | 把词变成可以算的箭头 |
+| 3.3 | 🔁 **[RNN 循环神经网络](https://learn.wizardwu.top/pages/rnn.html)** | 带记忆的网络 |
+| 3.4 | 🚪 **[LSTM / GRU](https://learn.wizardwu.top/pages/lstm.html)** | 用门控制记忆 |
+| 3.5 | 🔀 **[Seq2Seq 与注意力](https://learn.wizardwu.top/pages/seq2seq.html)** | 一句话压成一个向量，够吗 |
+| 3.6 | 🎯 **[注意力机制](https://learn.wizardwu.top/pages/attention.html)** | 第一次"该看哪"的算法 |
+| 3.7 | ⚡ **[Transformer 自注意力](https://learn.wizardwu.top/pages/transformer.html)** | 每个词都看所有词 |
+| 3.8 | 📍 **[位置编码与长上下文](https://learn.wizardwu.top/pages/rope.html)** | 词序信息从哪来 |
+| 3.9 | 📖 **[预训练语言模型](https://learn.wizardwu.top/pages/plm.html)** | 读完整个互联网之后 |
+| 3.10 | 🎰 **[文本生成与采样](https://learn.wizardwu.top/pages/sampling.html)** | 模型是怎么"说"出来的 |
 
 ### 阶段 4 · 学会创造 —— 让它学会创作
 
 | # | 章 | 一句话 |
 |---|---|---|
-| 4.1 | 🎛️ **[自编码器](https://deeplearning.wizardwu.top/pages/ae.html)** | 压缩再还原 |
-| 4.2 | 🎲 **[VAE 变分自编码器](https://deeplearning.wizardwu.top/pages/vae.html)** | 让潜空间变成连续地图 |
-| 4.3 | 🎭 **[GAN 生成对抗网络](https://deeplearning.wizardwu.top/pages/gan.html)** | 造假者与鉴定师 |
-| 4.4 | 🌫️ **[扩散模型 DDPM](https://deeplearning.wizardwu.top/pages/diffusion.html)** | 从噪声里雕出一张图 |
-| 4.5 | 🖌️ **[潜空间扩散与 DiT](https://deeplearning.wizardwu.top/pages/dit.html)** | 在压缩空间里画画 |
-| 4.6 | ➡️ **[流匹配与整流流](https://deeplearning.wizardwu.top/pages/flow.html)** | 把绕路改成直线 |
-| 4.7 | ⚡ **[一致性模型与蒸馏](https://deeplearning.wizardwu.top/pages/consistency.html)** | 一步出图怎么做到 |
-| 4.8 | 🔢 **[视觉 tokenizer](https://deeplearning.wizardwu.top/pages/vq.html)** | 图片也能"下一个" |
-| 4.9 | 🗺️ **[生成模型家族图谱](https://deeplearning.wizardwu.top/pages/genmap.html)** | 五条路线怎么选 |
-| 4.10 | 🎛️ **[一套机制，四种模态](https://deeplearning.wizardwu.top/pages/modality.html)** | 换个模态只换四个零件 |
-| 4.11 | 👁️ **[多模态模型](https://deeplearning.wizardwu.top/pages/multimodal.html)** | 让模型长眼睛 |
+| 4.1 | 🎛️ **[自编码器](https://learn.wizardwu.top/pages/ae.html)** | 压缩再还原 |
+| 4.2 | 🎲 **[VAE 变分自编码器](https://learn.wizardwu.top/pages/vae.html)** | 让潜空间变成连续地图 |
+| 4.3 | 🎭 **[GAN 生成对抗网络](https://learn.wizardwu.top/pages/gan.html)** | 造假者与鉴定师 |
+| 4.4 | 🌫️ **[扩散模型 DDPM](https://learn.wizardwu.top/pages/diffusion.html)** | 从噪声里雕出一张图 |
+| 4.5 | 🖌️ **[潜空间扩散与 DiT](https://learn.wizardwu.top/pages/dit.html)** | 在压缩空间里画画 |
+| 4.6 | ➡️ **[流匹配与整流流](https://learn.wizardwu.top/pages/flow.html)** | 把绕路改成直线 |
+| 4.7 | ⚡ **[一致性模型与蒸馏](https://learn.wizardwu.top/pages/consistency.html)** | 一步出图怎么做到 |
+| 4.8 | 🔢 **[视觉 tokenizer](https://learn.wizardwu.top/pages/vq.html)** | 图片也能"下一个" |
+| 4.9 | 🗺️ **[生成模型家族图谱](https://learn.wizardwu.top/pages/genmap.html)** | 五条路线怎么选 |
+| 4.10 | 🎛️ **[一套机制，四种模态](https://learn.wizardwu.top/pages/modality.html)** | 换个模态只换四个零件 |
+| 4.11 | 👁️ **[多模态模型](https://learn.wizardwu.top/pages/multimodal.html)** | 让模型长眼睛 |
 
 ### 阶段 5 · 大模型怎么炼成 —— 规模、对齐与推理
 
 | # | 章 | 一句话 |
 |---|---|---|
-| 5.1 | 📈 **[缩放定律](https://deeplearning.wizardwu.top/pages/scaling.html)** | 为什么越大越强 |
-| 5.2 | 🧩 **[MoE 混合专家](https://deeplearning.wizardwu.top/pages/moe.html)** | 每次只用一部分脑子 |
-| 5.3 | 🪓 **[预训练数据工程](https://deeplearning.wizardwu.top/pages/data.html)** | 数据比模型重要 |
-| 5.4 | 🏗️ **[训练三阶段总览](https://deeplearning.wizardwu.top/pages/llm-training.html)** | 从"会接话"到"会办事" |
-| 5.5 | 🕹️ **[强化学习入门](https://deeplearning.wizardwu.top/pages/rl.html)** | 没有答案，只有分数 |
-| 5.6 | 🧑‍⚖️ **[RLHF 与 PPO](https://deeplearning.wizardwu.top/pages/rlhf.html)** | 让人类当裁判 |
-| 5.7 | ⏭️ **[DPO 家族](https://deeplearning.wizardwu.top/pages/dpo.html)** | 一步跳过奖励模型 |
-| 5.8 | ✅ **[RLVR 与 GRPO](https://deeplearning.wizardwu.top/pages/rlvr.html)** | 2025 头号范式转移 |
-| 5.9 | 🤔 **[思维链与测试时计算](https://deeplearning.wizardwu.top/pages/reasoning.html)** | 想得久一点就更聪明 |
-| 5.10 | 🪶 **[LoRA 与高效微调](https://deeplearning.wizardwu.top/pages/lora.html)** | 只调一小块也能行 |
-| 5.11 | 🗜️ **[蒸馏、量化与剪枝](https://deeplearning.wizardwu.top/pages/compress.html)** | 把大象装进冰箱 |
-| 5.12 | 🌳 **[微调实战决策树](https://deeplearning.wizardwu.top/pages/ft-tree.html)** | 我到底该用哪种 |
+| 5.1 | 📈 **[缩放定律](https://learn.wizardwu.top/pages/scaling.html)** | 为什么越大越强 |
+| 5.2 | 🧩 **[MoE 混合专家](https://learn.wizardwu.top/pages/moe.html)** | 每次只用一部分脑子 |
+| 5.3 | 🪓 **[预训练数据工程](https://learn.wizardwu.top/pages/data.html)** | 数据比模型重要 |
+| 5.4 | 🏗️ **[训练三阶段总览](https://learn.wizardwu.top/pages/llm-training.html)** | 从"会接话"到"会办事" |
+| 5.5 | 🕹️ **[强化学习入门](https://learn.wizardwu.top/pages/rl.html)** | 没有答案，只有分数 |
+| 5.6 | 🧑‍⚖️ **[RLHF 与 PPO](https://learn.wizardwu.top/pages/rlhf.html)** | 让人类当裁判 |
+| 5.7 | ⏭️ **[DPO 家族](https://learn.wizardwu.top/pages/dpo.html)** | 一步跳过奖励模型 |
+| 5.8 | ✅ **[RLVR 与 GRPO](https://learn.wizardwu.top/pages/rlvr.html)** | 2025 头号范式转移 |
+| 5.9 | 🤔 **[思维链与测试时计算](https://learn.wizardwu.top/pages/reasoning.html)** | 想得久一点就更聪明 |
+| 5.10 | 🪶 **[LoRA 与高效微调](https://learn.wizardwu.top/pages/lora.html)** | 只调一小块也能行 |
+| 5.11 | 🗜️ **[蒸馏、量化与剪枝](https://learn.wizardwu.top/pages/compress.html)** | 把大象装进冰箱 |
+| 5.12 | 🌳 **[微调实战决策树](https://learn.wizardwu.top/pages/ft-tree.html)** | 我到底该用哪种 |
 
 ### 阶段 6 · 让模型跑起来 —— 训练和推理的工程账
 
 | # | 章 | 一句话 |
 |---|---|---|
-| 6.1 | 🔌 **[硬件与算力账本](https://deeplearning.wizardwu.top/pages/hardware.html)** | 从芯片到框架，算法跑不跑得动 |
-| 6.2 | 🕸️ **[分布式训练与集群](https://deeplearning.wizardwu.top/pages/parallel.html)** | 一张卡放不下，一千张卡怎么连 |
-| 6.3 | 🧮 **[混合精度与显存账本](https://deeplearning.wizardwu.top/pages/memory.html)** | 训练一次要多少钱 |
-| 6.4 | 🗄️ **[推理与 KV Cache](https://deeplearning.wizardwu.top/pages/kvcache.html)** | 生成一个词要算什么 |
-| 6.5 | 📉 **[高效注意力](https://deeplearning.wizardwu.top/pages/attn-efficient.html)** | 把 O(n²) 压下去 |
-| 6.6 | 🎯 **[投机解码与加速](https://deeplearning.wizardwu.top/pages/spec.html)** | 小模型猜、大模型验 |
-| 6.7 | 🚦 **[服务化与吞吐](https://deeplearning.wizardwu.top/pages/serving.html)** | 怎么同时服务一千人 |
-| 6.8 | 📊 **[评测、基准与幻觉](https://deeplearning.wizardwu.top/pages/eval.html)** | 怎么知道它到底行不行 |
+| 6.1 | 🔌 **[硬件与算力账本](https://learn.wizardwu.top/pages/hardware.html)** | 从芯片到框架，算法跑不跑得动 |
+| 6.2 | 🕸️ **[分布式训练与集群](https://learn.wizardwu.top/pages/parallel.html)** | 一张卡放不下，一千张卡怎么连 |
+| 6.3 | 🧮 **[混合精度与显存账本](https://learn.wizardwu.top/pages/memory.html)** | 训练一次要多少钱 |
+| 6.4 | 🗄️ **[推理与 KV Cache](https://learn.wizardwu.top/pages/kvcache.html)** | 生成一个词要算什么 |
+| 6.5 | 📉 **[高效注意力](https://learn.wizardwu.top/pages/attn-efficient.html)** | 把 O(n²) 压下去 |
+| 6.6 | 🎯 **[投机解码与加速](https://learn.wizardwu.top/pages/spec.html)** | 小模型猜、大模型验 |
+| 6.7 | 🚦 **[服务化与吞吐](https://learn.wizardwu.top/pages/serving.html)** | 怎么同时服务一千人 |
+| 6.8 | 📊 **[评测、基准与幻觉](https://learn.wizardwu.top/pages/eval.html)** | 怎么知道它到底行不行 |
 
 ### 阶段 7 · 用起来 —— 应用与智能体
 
 | # | 章 | 一句话 |
 |---|---|---|
-| 7.1 | 💬 **[提示与上下文学习](https://deeplearning.wizardwu.top/pages/prompting.html)** | 不训练也能改行为 |
-| 7.2 | 🧭 **[向量嵌入与检索](https://deeplearning.wizardwu.top/pages/embedding.html)** | 把意思变成距离 |
-| 7.3 | 📎 **[RAG 检索增强](https://deeplearning.wizardwu.top/pages/rag.html)** | 给模型配一本参考书 |
-| 7.4 | 🛠️ **[Agent 与工具调用](https://deeplearning.wizardwu.top/pages/agent.html)** | 让它自己动手 |
-| 7.5 | 🧠 **[上下文工程与记忆](https://deeplearning.wizardwu.top/pages/context.html)** | 2026：该忘什么 |
-| 7.6 | 👥 **[多智能体与工作流](https://deeplearning.wizardwu.top/pages/multiagent.html)** | 一个不够就组队 |
-| 7.7 | 🛡️ **[对齐、安全与越狱](https://deeplearning.wizardwu.top/pages/safety.html)** | 能力越强越要管 |
+| 7.1 | 💬 **[提示与上下文学习](https://learn.wizardwu.top/pages/prompting.html)** | 不训练也能改行为 |
+| 7.2 | 🧭 **[向量嵌入与检索](https://learn.wizardwu.top/pages/embedding.html)** | 把意思变成距离 |
+| 7.3 | 📎 **[RAG 检索增强](https://learn.wizardwu.top/pages/rag.html)** | 给模型配一本参考书 |
+| 7.4 | 🛠️ **[Agent 与工具调用](https://learn.wizardwu.top/pages/agent.html)** | 让它自己动手 |
+| 7.5 | 🧠 **[上下文工程与记忆](https://learn.wizardwu.top/pages/context.html)** | 2026：该忘什么 |
+| 7.6 | 👥 **[多智能体与工作流](https://learn.wizardwu.top/pages/multiagent.html)** | 一个不够就组队 |
+| 7.7 | 🛡️ **[对齐、安全与越狱](https://learn.wizardwu.top/pages/safety.html)** | 能力越强越要管 |
 
 ### 阶段 8 · 前沿范式 —— 正在改写规则的东西
 
 | # | 章 | 一句话 |
 |---|---|---|
-| 8.1 | 〰️ **[状态空间模型 Mamba](https://deeplearning.wizardwu.top/pages/ssm.html)** | RNN 回来了，但会挑重点 |
-| 8.2 | ➗ **[线性注意力与替代方案](https://deeplearning.wizardwu.top/pages/linear-attn.html)** | 注意力的整个家族 |
-| 8.3 | 🔗 **[图神经网络](https://deeplearning.wizardwu.top/pages/gnn.html)** | 一堆点加连线，怎么喂给网络 |
-| 8.4 | 🔀 **[扩散语言模型](https://deeplearning.wizardwu.top/pages/dllm.html)** | 文本也能并行生成 |
-| 8.5 | 🧮 **[神经符号与可验证推理](https://deeplearning.wizardwu.top/pages/neurosymbolic.html)** | 让模型学会证明 |
-| 8.6 | ⏱️ **[自适应计算](https://deeplearning.wizardwu.top/pages/adaptive.html)** | 简单题少算，难题多算 |
-| 8.7 | 🔂 **[持续学习与遗忘](https://deeplearning.wizardwu.top/pages/continual.html)** | 为什么学新的忘旧的 |
-| 8.8 | 🔬 **[机械可解释性](https://deeplearning.wizardwu.top/pages/mechinterp.html)** | 打开黑箱看看里面 |
-| 8.9 | ♻️ **[递归自我改进](https://deeplearning.wizardwu.top/pages/rsi.html)** | 让 AI 改进 AI |
-| 8.10 | 🌍 **[世界模型与具身智能](https://deeplearning.wizardwu.top/pages/world.html)** | 先在脑子里试一遍 · 全课收束 |
+| 8.1 | 〰️ **[状态空间模型 Mamba](https://learn.wizardwu.top/pages/ssm.html)** | RNN 回来了，但会挑重点 |
+| 8.2 | ➗ **[线性注意力与替代方案](https://learn.wizardwu.top/pages/linear-attn.html)** | 注意力的整个家族 |
+| 8.3 | 🔗 **[图神经网络](https://learn.wizardwu.top/pages/gnn.html)** | 一堆点加连线，怎么喂给网络 |
+| 8.4 | 🔀 **[扩散语言模型](https://learn.wizardwu.top/pages/dllm.html)** | 文本也能并行生成 |
+| 8.5 | 🧮 **[神经符号与可验证推理](https://learn.wizardwu.top/pages/neurosymbolic.html)** | 让模型学会证明 |
+| 8.6 | ⏱️ **[自适应计算](https://learn.wizardwu.top/pages/adaptive.html)** | 简单题少算，难题多算 |
+| 8.7 | 🔂 **[持续学习与遗忘](https://learn.wizardwu.top/pages/continual.html)** | 为什么学新的忘旧的 |
+| 8.8 | 🔬 **[机械可解释性](https://learn.wizardwu.top/pages/mechinterp.html)** | 打开黑箱看看里面 |
+| 8.9 | ♻️ **[递归自我改进](https://learn.wizardwu.top/pages/rsi.html)** | 让 AI 改进 AI |
+| 8.10 | 🌍 **[世界模型与具身智能](https://learn.wizardwu.top/pages/world.html)** | 先在脑子里试一遍 · 全课收束 |
 
 </details>
 
@@ -334,7 +334,7 @@ LoRA（大模型）     →  一致性模型  「压缩」
 
 <details>
 <summary><b>为什么这个仓库里只有 README，没有源码？</b></summary>
-<p>这里主要是作品展示和更新日志，完整的教学站源码未公开。所有内容都可以在 <a href="https://deeplearning.wizardwu.top">deeplearning.wizardwu.top</a> 免费阅读。</p>
+<p>这里主要是作品展示和更新日志，完整的教学站源码未公开。所有内容都可以在 <a href="https://learn.wizardwu.top">learn.wizardwu.top</a> 免费阅读。</p>
 </details>
 
 <details>
@@ -377,5 +377,5 @@ LoRA（大模型）     →  一致性模型  「压缩」
 <div align="center">
   <sub>每一章都有人真的亲手拖过每一个滑块。</sub>
   <br><br>
-  <a href="https://deeplearning.wizardwu.top"><b>👉 现在就读：deeplearning.wizardwu.top</b></a>
+  <a href="https://learn.wizardwu.top"><b>👉 现在就读：learn.wizardwu.top</b></a>
 </div>
